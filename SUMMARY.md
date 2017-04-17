@@ -14,5 +14,5 @@
 * [node](book/node/README.md)
 * [http](book/http/README.md)
 * [打包工具](book/bundle/README.md)
-	* [webpack](book/bundle/init.md)
+	* [webpack](book/bundle/webpack/init.md)
 
